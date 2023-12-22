@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>AFG.png</file>
+        <file>astralia.png</file>
+        <file>chine.png</file>
+        <file>Engh.png</file>
+        <file>eye6.jpg</file>
+        <file>germani.png</file>
+        <file>india.png</file>
+        <file>iran.png</file>
+        <file>italia.png</file>
+        <file>japan.png</file>
+        <file>notyeey.jpg</file>
+        <file>Pakistan.png</file>
+        <file>palsten.png</file>
+        <file>refresh.jpg</file>
+        <file>USA.png</file>
+    </qresource>
+</RCC>
